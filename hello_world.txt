@@ -1,1 +1,3 @@
 Adding some text
+
+Trying git commit in VS Code
